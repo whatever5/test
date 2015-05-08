@@ -1,0 +1,1 @@
+default:  mpiexec -n 8 Ray $FASTQ_TYPE -k 31 -o $TMP_DIR
